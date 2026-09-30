@@ -1,0 +1,18 @@
+{
+  "short_name": "QuizMaster",
+  "name": "QuizMaster AI - Adaptive Learning",
+  "description": "An AI-powered adaptive learning platform that generates quizzes, tracks progress, and provides deep insights into various topics.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
